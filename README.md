@@ -42,9 +42,9 @@ gggggggggggggggggggggggggggggggggggggggggggggggg
 
 this is my change
 
-<<<<<<< HEAD
-=======
+
+
 thisis one 
->>>>>>> master
+
 
 # 2703Prac
