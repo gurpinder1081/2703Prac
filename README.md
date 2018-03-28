@@ -59,7 +59,11 @@ t
 brfnbknrkfn
 
 grbherh
-=======
+
 egjerjgkjsoej
->>>>>>> update
+
+
+
+vmkmdbkrkn
+
 # 2703Prac
