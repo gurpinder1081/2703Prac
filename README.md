@@ -54,8 +54,12 @@ this is four
 
 t
 
+<<<<<<< HEAD
 
 brfnbknrkfn
 
 grbherh
+=======
+egjerjgkjsoej
+>>>>>>> update
 # 2703Prac
