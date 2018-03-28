@@ -35,8 +35,7 @@ ffffffffffffffffffffffffffff
 
 gggggggggggggggggggggggggggggggggggggggggggggggg
 
-<<<<<<< HEAD
+
 this is my change
-=======
->>>>>>> master
+
 # 2703Prac
