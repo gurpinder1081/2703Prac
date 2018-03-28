@@ -2,9 +2,9 @@
 
 This is branch two
 
-<<<<<<< HEAD
+
 this is second change of branch two
-=======
+
 This is one branch change
 
 
@@ -38,5 +38,9 @@ ffffffffffffffffffffffffffff
 
 gggggggggggggggggggggggggggggggggggggggggggggggg
 
->>>>>>> master
+
+
+this is my change
+
+
 # 2703Prac
