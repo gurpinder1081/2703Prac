@@ -54,7 +54,7 @@ this is four
 
 t
 
-<<<<<<< HEAD
+
 
 brfnbknrkfn
 
@@ -65,5 +65,7 @@ egjerjgkjsoej
 
 
 vmkmdbkrkn
+
+This is change of today
 
 # 2703Prac
